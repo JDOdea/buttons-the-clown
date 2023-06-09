@@ -1,0 +1,27 @@
+{
+    "employees": [
+        {
+            "id": [],
+            "name": []
+        }
+    ],
+    "completions": [
+        {
+            "id": [],
+            "requestId": [],
+            "employeeId": [],
+            "dateCreated": []
+        }
+    ],
+    "requests": [
+        {
+            "id": [],
+            "parentName": [],
+            "childName": [],
+            "totalChildren": [],
+            "address": [],
+            "date": [],
+            "length": []
+        }
+    ]
+}
